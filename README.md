@@ -1,7 +1,6 @@
 # 💫 About Me:
-🦋 I’m a Year 3 Business Analytics student at Singapore Management University (SMU), driven by a passion for uncovering insights from data and transforming them into meaningful business impact. via Data Science & Machine Learning<br><br>🚹 I’m currently expanding my expertise in PyTorch, deep learning, and various machine learning concepts — continuously exploring new techniques that push the boundaries of data-driven problem-solving.  <br><br>🚙 I am currently working as an intern at Hyundai Motor Group Technological Innovation Center (HMGICS), and I have been honing core data engineering and platform skills like Databricks, Hadoop, Spark and Pandas. <br><br>
-💙 Fun fact: I love singing in the shower, but I’m also a detective in the realm of data — constantly searching for patterns, uncovering stories hidden within numbers, and building ML solutions that address real-world business challenges. <br><br>
-🔷 Horoscope: Taurus, i.e. I approach every project with the steadfast determination, passion, and diligence, rigorously building models and experimenting thoughtfully to satisfy my thirst in the Data Science & ML field.
+
+🦋 I’m a penultimate Business Analytics student at Singapore Management University (SMU), driven by a passion for uncovering insights from data and transforming them into meaningful business impact. via Data Science & Machine Learning<br><br>🚹 I’m currently expanding my expertise in PyTorch, deep learning, and various machine learning concepts — continuously exploring new techniques that push the boundaries of data-driven problem-solving. 
 
 
 ## 🌐 Socials:
